@@ -22,14 +22,14 @@
             {{ project.name }}
             {% endif %}
         </p>
-        {% if project.technologies %}
-        <div class="technologies">
-            Techonology Used: <p>{{ project.technologies | markdownify }}</p>
-        </div>
-        {% endif %}
         {% if project.details %}
         <div class="details">
             {{ project.details | markdownify }}
+        </div>
+        {% endif %}
+        {% if project.technologies %}
+        <div class="technologies">
+            <h2>Techonology Used: </h2>{{ project.technologies | markdownify }}
         </div>
         {% endif %}
         {% endif %}
