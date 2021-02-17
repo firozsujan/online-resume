@@ -135,33 +135,25 @@ projects:
       details: |
         This is a product of Nitol Tata we re-designed the front end and API’s for supporting the frontend.
 
-    - name: PlantPathology
-      technologies: Android
+    - name: PlantPathology (Android)
       details: |
         Disease detection of plant from image by Tensor flow model.
 
-    - name: PlantPathology
-      technologies: Flutter
+    - name: PlantPathology (Flutter)
       details: |
         Live disease detection in offline and also from image (from gallery or camera).
 
-    - name: PulseHealth
-      technologies: Android
+    - name: PulseHealth (Android)
 
-    - name: Coel
-      technologies: Android
+    - name: Coel (Android)
 
-    - name: Protikar
-      technologies: Android
+    - name: Protikar (Android)
 
-    - name: gSlate Bangla, English, Arabic
-      technologies: Android, AndEngine
+    - name: gSlate Bangla, English, Arabic (Android)
 
-    - name: gDraw
-      technologies: Android
+    - name: gDraw (Android)
 
-    - name: krishe
-      technologies: Android
+    - name: krishe (Android)
         
 publications:
   display: false
