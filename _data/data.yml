@@ -36,7 +36,7 @@ interests:
   title: Interests
   items:
     - item: Traveling
-      item: Motorcycling
+    - item: Motorcycling
     - item: Cars
 
 profile:
@@ -161,7 +161,7 @@ projects:
       technologies: Android
 
     - name: krishe
-      + Techonologies: Android
+      technologies: Android
         
 publications:
   display: false
