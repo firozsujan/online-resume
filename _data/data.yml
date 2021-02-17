@@ -1,32 +1,33 @@
 intro:
-  name: Foo Bar
-  title: Backend Developer
+  name: Firoz Ahmed Talukder
+  title: Sr. Software Engineer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: firozsujan@gmail.com
+  phone: +8801673903636
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
-  linkedin:
-  github: github
+  linkedin: firozahmedtalukder
+  github: firozsujan
   gitlab:
   bitbucket:
-  twitter: twitter
-  stackoverflow:
+  twitter: 
+  stackoverflow: firozsujan
   quora:
   goodreads:
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Bengali
       level: Native
+      
     - idiom: English
       level: Professional
 
@@ -34,10 +35,9 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
+    - item: Traveling
+      item: Motorcycling
+    - item: Cars
 
 profile:
   display: true
@@ -53,55 +53,55 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: East West University
+      location: Bangladesh
+      time: 2008 - 2013
+      major: Computer Science and Engineering
+      degree: Bachelor 
       details: |
-        Experience in this university:
-        + First
-        + Second
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
+    - Collage: Nasirabad Collage
+      location: Mymensingh
+      time: 2007
+      
+    - School: Mukul Niketon High School
+      location: Mymensingh
+      time: 2005
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Sr. Software Engineer
+      time: January 1, 2019 - Continuing
+      company: Grameen Intel Social Business Limited
+      tag: Worlds first IT social business
+      location: Dhaka, Bangladesh
       details: |
-        Experience in this company:
-        + First
-        + Second
+        World’s first social business in IT industry, implementing the globally acclaimed Social Business concept in agriculture, healthcare & education sector. Also works for external clients.
+        + Co-Leader of a 4 member’s team responsible for developing Java Web application.
+        + Successfully released and deploy 3 web applications.
+        + Launched 4 android as a team player.
+        + Took initiative for improving user experience of customer management web portal.
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Software Engineer
+      time: May 18, 2014 - December 31, 2018
+      company: Grameen Intel Social Business Limited
+      tag: Worlds first IT social business 
+      location: Dhaka, Bangladesh
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        + Successfully released and deploy 3 web applications
+        + Launched 4 android as a team player
+        
+    - role: Jr. Software Engineer
+      time: November 01, 2012 - April 30, 2014
+      company: E-Solution Pro
+      tag: An outsourcing company specializes in web and mobile applications
+      location: Dhaka, Bangladesh
+      details: |
+        + Developed android applications and Java web apis.
+        + Collaborated with internal and external stakeholders to determine requirements.
+        + Designed Data Models and application architecture.
+        + Developed & released 2 mobile application and 1 java web application.
 
 projects:
   display: true
@@ -110,51 +110,63 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Pulse Health Portal
+      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
       details: |
-        Project Foo's detail, you can write markdown format text.
+        This web application is for managing different level of users and provides API’s for PulseHealth Android application.
 
-    - name: Bar
-      link:
+    - name: CMS Portal
+      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
       details: |
-        Project Bar's detail, you can write markdown format text.
+        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
+        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+        
+    - name: CMS Portal
+      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      details: |
+        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
+        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
 
+    - name: CMS Portal
+      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      details: |
+        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
+        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+
+    - name: CMS Portal
+      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      details: |
+        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
+        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+        
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
-    This is all the books I wrote.
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
+    - title: A Location Based Time and Attendance System
+      conference: Istamble, Turkey 2014
+      link: https://www.researchgate.net/publication/271302319_A_Location_Based_Time_and_Attendance_System
+    
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
+    Here is my skills on techonologies:
+    + Languages: Java, C, TypeScript, Dart, Javascript, C, HTML, CSS 
+    + Frameworks: Spring-boot, Hibernet, Angular, Android development, Flutter
+    + Version Control: SVN, Git
+    + Others: MySQL, PostGres, SqLite, 
+    
+    
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
     + First
     + Second
-
-    ...
 
 footer:
   display: true
