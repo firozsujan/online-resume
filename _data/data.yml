@@ -41,13 +41,9 @@ interests:
 
 profile:
   display: true
-  title: Profile
+  title: Career Summary
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    To work for an organization that will give me the privilege to apply my skills and knowledge. Of my 7+ years of Software Engineering experience, I always try to perform effectively even within a highly pressurized working environment. High in moral values and principles, I offer honesty, commitment and dedication to the fullest.
 
 education:
   display: true
@@ -60,13 +56,16 @@ education:
       degree: Bachelor 
       details: |
 
-    - Collage: Nasirabad Collage
+    - university: Nasirabad Collage
       location: Mymensingh
+      degree: H.S.C.
       time: 2007
       
-    - School: Mukul Niketon High School
+    - university: Mukul Niketon High School
       location: Mymensingh
+      degree: S.S.C.
       time: 2005
+      
 experiences:
   display: true
   title: Experiences
@@ -111,33 +110,58 @@ projects:
 
   items:
     - name: Pulse Health Portal
-      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      + Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
       details: |
         This web application is for managing different level of users and provides API’s for PulseHealth Android application.
 
     - name: CMS Portal
-      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      + Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
       details: |
         This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
         Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
         
-    - name: CMS Portal
-      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+    - name: Coel Portal
+      + Techonologies: SpringBoot, JPA, Hibernet, Angular 5, MySQL, Tomcat, Maven
       details: |
-        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
-        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+        This application is for supporting Coel (Smart Bangle) for user registration, data sync with Coel(Mobile Application) and reporting. Form creation for capturing data with edit and delete feature with backend service. AOP implemented for Mobile API’s log.
 
-    - name: CMS Portal
-      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+    - name: Car parking Management
+      + Techonologies: JSP, Servlet, JDBC, MySQL, Tomcat
       details: |
-        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
-        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+        This is a Car parking management web application for managing car parking of a parking lot. Tracking car’s parking time and make invoice according time
 
-    - name: CMS Portal
-      Techonologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+    - name: NTracker web application
+      + Techonologies: JSP, Servlet, MySQL, Tomcat
       details: |
-        This web application is for capturing krishe(Mobile App) logic data to function properly. Data is sync to web application to mobile application.
-        Advanced data input from creation for user data capturing with edit and delete feature, backend service. Region mapping dynamically for different countries.
+        This is a product of Nitol Tata we re-designed the front end and API’s for supporting the frontend.
+
+    - name: PlantPathology
+      + Techonologies: Android
+      details: |
+        Disease detection of plant from image by Tensor flow model.
+
+    - name: PlantPathology
+      + Techonologies: Flutter
+      details: |
+        Live disease detection in offline and also from image (from gallery or camera).
+
+    - name: PulseHealth
+      + Techonologies: Android
+
+    - name: Coel
+      + Techonologies: Android
+
+    - name: Protikar
+      + Techonologies: Android
+
+    - name: gSlate Bangla, English, Arabic
+      + Techonologies: Android, AndEngine
+
+    - name: gDraw
+      + Techonologies: Android
+
+    - name: krishe
+      + Techonologies: Android
         
 publications:
   display: false
