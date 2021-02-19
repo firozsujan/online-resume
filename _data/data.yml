@@ -17,7 +17,7 @@ contact:
   gitlab:
   bitbucket:
   twitter: 
-  stackoverflow: firozsujan
+  stackoverflow: 2967274
   quora:
   goodreads:
 
@@ -77,10 +77,13 @@ experiences:
       location: Dhaka, Bangladesh
       details: |
         World’s first social business in IT industry, implementing the globally acclaimed Social Business concept in agriculture, healthcare & education sector. Also works for external clients.
-        + Co-Leader of a 4 member’s team responsible for developing Java Web application.
+        + Built outstanding and dynamic team of software engineers and developers which significantly boosted overall success of organization.
+        + Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.
+        + Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
+        + Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.
+        + Consulted with engineering team members to determine system loads and develop improvement plans.
         + Successfully released and deploy 3 web applications.
         + Launched 4 android as a team player.
-        + Took initiative for improving user experience of customer management web portal.
 
     - role: Software Engineer
       time: May 18, 2014 - December 31, 2018
@@ -88,8 +91,11 @@ experiences:
       tag: Worlds first IT social business 
       location: Dhaka, Bangladesh
       details: |
-        + Successfully released and deploy 3 web applications
-        + Launched 4 android as a team player
+        + Reviewed project specifications and designed technology solutions that met or exceeded performance expectations.
+        + Researched, designed and implemented scalable applications for data extraction, analysis, retrieval and indexing.
+        + Consulted regularly with internal customers on application development project status, new project proposals and software-related technical issues.
+        + Gathered and defined customer requirements to develop clear specifications for project plans. 
+
         
     - role: Jr. Software Engineer
       time: November 01, 2012 - April 30, 2014
@@ -98,7 +104,7 @@ experiences:
       location: Dhaka, Bangladesh
       details: |
         + Developed android applications and Java web apis.
-        + Collaborated with internal and external stakeholders to determine requirements.
+        + Gathered and defined customer requirements to develop clear specifications for project plans.
         + Designed Data Models and application architecture.
         + Developed & released 2 mobile application and 1 java web application.
 
@@ -173,7 +179,7 @@ skills:
     + Languages: Java, C, TypeScript, Dart, Javascript, C, HTML, CSS 
     + Frameworks: Spring-boot, Hibernet, Angular, Android development, Flutter
     + Version Control: SVN, Git
-    + Others: MySQL, PostGres, SqLite, 
+    + Others: MySQL, PostGres, SqLite, Maven, Gredle
     
     
 evaluation:
