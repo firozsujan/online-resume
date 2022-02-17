@@ -98,7 +98,7 @@ experiences:
 
         
     - role: Jr. Software Engineer
-      time: November 01, 2012 - April 30, 2014
+      time: November 01, 2013 - April 30, 2014
       company: E-Solution Pro
       tag: An outsourcing company specializes in web and mobile applications
       location: Dhaka, Bangladesh
@@ -131,6 +131,11 @@ projects:
       details: |
         This application is for supporting Coel (Smart Bangle) for user registration, data sync with Coel(Mobile Application) and reporting. Form creation for capturing data with edit and delete feature with backend service. AOP implemented for Mobile API’s log.
 
+    - name: 4.	Koolio
+      techonologies: Python, AWS: Cognito, Lambda, webAPI, S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
+      details: |
+        This is a web application for creating podcast. From this application by giving an audio file (uploaded/recorded with this app) as input user will get better quality audio with podcast annotations. 
+
     - name: Car parking Management
       technologies: JSP, Servlet, JDBC, MySQL, Tomcat
       details: |
@@ -152,6 +157,8 @@ projects:
     - name: PulseHealth (Android)
 
     - name: Coel (Android)
+
+    - name: PlantAI (flutter)
 
     - name: Protikar (Android)
 
@@ -176,10 +183,10 @@ skills:
   title: Skills
   details: |
     Here is my skills on techonologies:
-    + Languages: Java, C, TypeScript, Dart, Javascript, C, HTML, CSS 
+    + Languages: Java, C, python, TypeScript, Dart, Javascript, HTML, CSS 
     + Frameworks: Spring-boot, Hibernet, Angular, Android development, Flutter
-    + Version Control: SVN, Git
-    + Others: MySQL, PostGres, SqLite, Maven, Gredle
+    + Version Control: Github, SVN
+    + Others: MySQL, PostgresDb, SqLite, Maven, Gredle, AWS, Firebase
     
     
 evaluation:
