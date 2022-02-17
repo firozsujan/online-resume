@@ -116,7 +116,7 @@ projects:
 
   items:
     - name: Pulse Health Portal
-      technologies: SpringBoot, JPA, Hibernet, AngularJS, MySQL, Tomcat, Maven
+      technologies: SpringBoot, JPA, Hibernet, Angular, MySQL, Tomcat, Maven
       details: |
         This web application is for managing different level of users and provides API’s for PulseHealth Android application.
 
@@ -131,8 +131,8 @@ projects:
       details: |
         This application is for supporting Coel (Smart Bangle) for user registration, data sync with Coel(Mobile Application) and reporting. Form creation for capturing data with edit and delete feature with backend service. AOP implemented for Mobile API’s log.
 
-    - name: 4.	Koolio
-      techonologies: Python, AWS: Cognito, Lambda, webAPI, S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
+    - name: Koolio
+      technologies: Python, AWS: Cognito, Lambda, webAPI, S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
       details: |
         This is a web application for creating podcast. From this application by giving an audio file (uploaded/recorded with this app) as input user will get better quality audio with podcast annotations. 
 
