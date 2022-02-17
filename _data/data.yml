@@ -132,7 +132,7 @@ projects:
         This application is for supporting Coel (Smart Bangle) for user registration, data sync with Coel(Mobile Application) and reporting. Form creation for capturing data with edit and delete feature with backend service. AOP implemented for Mobile API’s log.
 
     - name: Koolio
-      technologies: Python, AWS: Cognito, Lambda, webAPI, S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
+      technologies: Python, AWS Cognito, AWS Lambda, AWS webAPI, AWS S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
       details: |
         This is a web application for creating podcast. From this application by giving an audio file (uploaded/recorded with this app) as input user will get better quality audio with podcast annotations. 
 
