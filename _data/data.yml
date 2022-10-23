@@ -43,7 +43,7 @@ profile:
   display: true
   title: Career Summary
   details: |
-    To work for an organization that will give me the privilege to apply my skills and knowledge. Of my 7+ years of Software Engineering experience, I always try to perform effectively even within a highly pressurized working environment. High in moral values and principles, I offer honesty, commitment and dedication to the fullest.
+    To work for an organization that will give me the privilege to apply my skills and knowledge. Of my 8+ years of Software Engineering experience, I always try to perform effectively even within a highly pressurized working environment. High in moral values and principles, I offer honesty, commitment and dedication to the fullest.
 
 education:
   display: true
@@ -51,20 +51,10 @@ education:
   items:
     - university: East West University
       location: Bangladesh
-      time: 2008 - 2013
       major: Computer Science and Engineering
       degree: Bachelor 
       details: |
 
-    - university: Nasirabad Collage
-      location: Mymensingh
-      degree: H.S.C.
-      time: 2007
-      
-    - university: Mukul Niketon High School
-      location: Mymensingh
-      degree: S.S.C.
-      time: 2005
       
 experiences:
   display: true
@@ -82,9 +72,19 @@ experiences:
         + Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
         + Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.
         + Consulted with engineering team members to determine system loads and develop improvement plans.
-        + Successfully released and deploy 3 web applications.
+        + Successfully released and deploy 4 web applications.
         + Launched 4 android as a team player.
 
+    - role: Project Manager Consultant
+      time: September 1, 2021 - Continuing
+      company: Zero Inv
+      tag: Part time
+      location: North Carolina, USA
+      details: |
+        + Analize Busness requirements and Design architecture of the Software
+        + Took initiative and make execution of the delivery of the Software projects
+        + Monitoring the progress  
+        
     - role: Software Engineer
       time: May 18, 2014 - December 31, 2018
       company: Grameen Intel Social Business Limited
@@ -115,6 +115,11 @@ projects:
     This is all the projects I'm involved in.
 
   items:
+    - name: koolio.ai
+      technologies: Python, AWS Cognito, AWS Lambda, AWS APIGateway, AWS S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
+      details: |
+        This is a web application for creating podcast. From this application by giving an audio file (uploaded/recorded with this app) as input user will get better quality audio with podcast annotations. 
+
     - name: Pulse Health Portal
       technologies: SpringBoot, JPA, Hibernet, Angular, MySQL, Tomcat, Maven
       details: |
@@ -130,11 +135,6 @@ projects:
       technologies: SpringBoot, JPA, Hibernet, Angular 5, MySQL, Tomcat, Maven
       details: |
         This application is for supporting Coel (Smart Bangle) for user registration, data sync with Coel(Mobile Application) and reporting. Form creation for capturing data with edit and delete feature with backend service. AOP implemented for Mobile API’s log.
-
-    - name: Koolio
-      technologies: Python, AWS Cognito, AWS Lambda, AWS webAPI, AWS S3, EC2, Dynamodb etc, PostgreSQL, Tensorflow
-      details: |
-        This is a web application for creating podcast. From this application by giving an audio file (uploaded/recorded with this app) as input user will get better quality audio with podcast annotations. 
 
     - name: Car parking Management
       technologies: JSP, Servlet, JDBC, MySQL, Tomcat
