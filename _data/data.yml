@@ -185,8 +185,10 @@ skills:
     Here is my skills on techonologies:
     + Languages: Java, C, python, TypeScript, Dart, Javascript, HTML, CSS 
     + Frameworks: Spring-boot, Hibernet, Angular, Android development, Flutter
+    + AWS: Lambda, Cognito, API Gateway, S3, EC2, Dynamodb, ECS, CloudFormation, RDS
+    + GCP: Authentication, Cloud functions, Firebase realtime databse, Firestore
     + Version Control: Github, SVN
-    + Others: MySQL, PostgresDb, SqLite, Maven, Gredle, AWS, Firebase
+    + Others: MySQL, PostgresDb, SqLite, Maven, Gredle, CI/CD
     
     
 evaluation:
