@@ -61,7 +61,17 @@ experiences:
   title: Experiences
   items:
     - role: Sr. Software Engineer
-      time: January 1, 2019 - Continuing
+        time: July 1, 2022 - January 17, 2023
+        company: koolio.io
+        tag: Remote
+        location: Dhaka, Bangladesh
+        details: |
+          A Silicon Valley company. Which is working on a podcast platform.
+          + Worked as a Backend Team lead
+          + Developed serverless backend engine for the platform 
+          + Used different services of AWS cloud
+    - role: Sr. Software Engineer
+      time: January 1, 2019 - June 30, 2022
       company: Grameen Intel Social Business Limited
       tag: Worlds first IT social business
       location: Dhaka, Bangladesh
@@ -72,8 +82,8 @@ experiences:
         + Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.
         + Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.
         + Consulted with engineering team members to determine system loads and develop improvement plans.
-        + Successfully released and deploy 4 web applications.
-        + Launched 4 android as a team player.
+        + Successfully released and deployed 4 web applications.
+        + Launched 4 Android as a team player.
 
     - role: Project Manager Consultant
       time: September 1, 2021 - Continuing
