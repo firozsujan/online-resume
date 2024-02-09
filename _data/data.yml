@@ -61,15 +61,24 @@ experiences:
   title: Experiences
   items:
     - role: Sr. Software Engineer
-        time: July 1, 2022 - January 17, 2023
-        company: koolio.io
-        tag: Remote
-        location: Dhaka, Bangladesh
-        details: |
-          A Silicon Valley company. Which is working on a podcast platform.
-          + Worked as a Backend Team lead
-          + Developed serverless backend engine for the platform 
-          + Used different services of AWS cloud
+      time: January 17, 2023 - Continuing
+      company: BJIT Ltd.
+      location: Dhaka, Bangladesh
+      details: |
+        A client-based company which has developed and supported hundreds of projects throughout the globe. 
+        + Worked as a backend developer 
+        + Developed microservices with different technologies SpringBoot, dotNet Core  
+        + Used different services of AWS cloud
+    - role: Sr. Software Engineer
+      time: July 1, 2022 - January 17, 2023
+      company: koolio.io
+      tag: Remote
+      location: Dhaka, Bangladesh
+      details: |
+        A Silicon Valley company. Which is working on a podcast platform.
+        + Worked as a Backend Team lead
+        + Developed serverless backend engine for the platform 
+        + Used different services of AWS cloud
     - role: Sr. Software Engineer
       time: January 1, 2019 - June 30, 2022
       company: Grameen Intel Social Business Limited
